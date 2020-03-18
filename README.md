@@ -13,6 +13,6 @@ git remote add origin https://github.com/Hadi7678/remaja-tangguh.git.io.git/Wifi
 
 git push -u origin master
 
-git remote add origin https://github.com/Hadi7678/remaja-tangguh.git.io.git git/Wifi-Crakker
+git remote add origin https://github.com/Hadi7678/remaja-tangguh.git.io.git/Wifi-Crakker
 
 git push -u origin master
